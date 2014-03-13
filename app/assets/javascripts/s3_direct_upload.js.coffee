@@ -1,5 +1,5 @@
-#= require jquery-fileupload/basic
-#= require jquery-fileupload/vendor/tmpl
+#DISABLED= require jquery-fileupload/basic
+#DISABLED= require jquery-fileupload/vendor/tmpl
 
 $ = jQuery
 
